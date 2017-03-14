@@ -10,10 +10,10 @@
 ## ----------------------------
 
 ## -You will need the following repos for this to function correctly
-Ember App:
+This App (Rails):
 https://github.com/shivonq/bookstore-api
 
-Rails App:
+That App (Ember):
 https://github.com/shivonq/bookstore
 
 ## -Once you have them successfully installed, open three terminal/console windows/tabs and run the following commands.
